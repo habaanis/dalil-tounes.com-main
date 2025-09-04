@@ -55,11 +55,11 @@ Remplacez le contenu de votre fichier `.env` par :
 ```env
 # Supabase Configuration (remplacez par vos vraies valeurs)
 VITE_SUPABASE_URL=https://votre-projet-id.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+VITE_SUPABASE_ANON_KEY=keyXXXXXXXXXXXXXX
+SUPABASE_SERVICE_ROLE_KEY=keyXXXXXXXXXXXXXX
 
 # Google Maps Configuration (remplacez par votre vraie clé)
-GOOGLE_MAPS_API_KEY=AIzaSyANJrHS7OFU12UiLgtPIliTGgVVNrQKTug
+GOOGLE_MAPS_API_KEY=keyXXXXXXXXXXXXXX
 
 # Stripe (désactivé temporairement)
 # VITE_STRIPE_PUBLISHABLE_KEY=

@@ -115,8 +115,8 @@ git push -u origin main
 2. **Ajoutez vos variables** :
    ```
    VITE_SUPABASE_URL = https://votre-projet.supabase.co
-   VITE_SUPABASE_ANON_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-   VITE_GOOGLE_MAPS_API_KEY = AIzaSyANJrHS7OFU12UiLgtPIliTGgVVNrQKTug
+   VITE_SUPABASE_ANON_KEY = keyXXXXXXXXXXXXXX
+   VITE_GOOGLE_MAPS_API_KEY = keyXXXXXXXXXXXXXX
    ```
 
 ---

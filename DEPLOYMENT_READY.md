@@ -22,8 +22,8 @@ Félicitations ! Votre application **Dalil Tounes** est maintenant **100% config
 ```env
 # Supabase Configuration (remplacez par vos vraies valeurs)
 VITE_SUPABASE_URL=https://votre-projet-id.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+VITE_SUPABASE_ANON_KEY=keyXXXXXXXXXXXXXX
+SUPABASE_SERVICE_ROLE_KEY=keyXXXXXXXXXXXXXX
 
 # Google Maps Configuration (DÉJÀ CONFIGURÉ ✅)
 GOOGLE_MAPS_API_KEY=import.meta.env.VITE_Maps_API_KEY
