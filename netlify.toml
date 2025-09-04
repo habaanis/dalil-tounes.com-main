@@ -1,6 +1,6 @@
 [build]
   base = "project"
-  command = "npm run build"
+  command = "yarn build"
   publish = "dist"
 
 [build.environment]
