@@ -1,15 +1,11 @@
 [build]
-  base = ""
   command = "yarn build"
   publish = "dist"
 
-  [build.environment]
-  NODE_VERSION = "18"
-
 [build.environment]
+  NODE_VERSION = "18"
   SECRETS_SCAN_OMIT_KEYS = "VITE_SUPABASE_ANON_KEY,VITE_SUPABASE_URL,VITE_GOOGLE_MAPS_API_KEY"
 
-# Redirection SPA (React Router ou Vite SPA)
 [[redirects]]
   from = "/*"
   to = "/index.html"
